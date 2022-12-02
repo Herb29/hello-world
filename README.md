@@ -1,3 +1,4 @@
 # hello-world
-My first repository
+My first repository.
+
 *This commit is from readme-edit branch*
